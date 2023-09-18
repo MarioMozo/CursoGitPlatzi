@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(70, 70, 70);
+    color: pink;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+
+#conteiner{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+#cabecera2{
+    font-size: 20px;
+    width: 100%;
+    padding: 1em;
+    text-align: right;
+}
+
